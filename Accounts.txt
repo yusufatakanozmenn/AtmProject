@@ -1,0 +1,4 @@
+1	Yusuf	Atakan	1234	14900	
+2	Atakan	1234	2507	
+3	yusuf	1234	29850	
+4	atakan	1234	0	

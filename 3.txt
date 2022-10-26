@@ -1,0 +1,2 @@
+1	deposit				Tue Oct 25 16:58:57 2022	0	30000
+2	withdraw			Tue Oct 25 16:59:03 2022	30000	29850

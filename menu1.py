@@ -7,7 +7,7 @@ accounts_list = read_file('Accounts.txt')
 
 
 def menu1():
-    print('>>>>>>>>WELCOME<<<<<<<<\n')
+    print('>>>>>>>>Hoşgeldiniz<<<<<<<<\n')
     choice = int(input('1) Giris\n2) Hesap oluştur\n3) Çıkış\n\nseçim Yapınız>> '))
     if choice == 1:
         clear_screen()
